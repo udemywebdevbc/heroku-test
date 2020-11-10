@@ -1,0 +1,2 @@
+# Files listed here are ignored while uploading to github or heroku
+node_modules
